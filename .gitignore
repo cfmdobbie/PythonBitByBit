@@ -1,0 +1,8 @@
+
+# Standard Vim rules
+.*.swp
+.*.swo
+*~
+
+# IDE stuff
+.idea
